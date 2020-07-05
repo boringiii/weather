@@ -1,6 +1,6 @@
 <h1 align="center"> 天气查询 </h1>
 
-
+[![Build Status](https://travis-ci.org/boringiii/weather.svg?branch=master)](https://travis-ci.org/boringiii/weather)
 
 ## 安装
 
