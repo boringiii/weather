@@ -6,7 +6,7 @@
  * Time: 10:47
  */
 
-namespace Fhy\Weather\Exceptions;
+namespace Boringiii\Weather\Exceptions;
 
 
 class Exception extends \Exception

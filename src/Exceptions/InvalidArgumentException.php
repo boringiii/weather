@@ -6,7 +6,7 @@
  * Time: 10:48
  */
 
-namespace Fhy\Weather\Exceptions;
+namespace Boringiii\Weather\Exceptions;
 
 
 class InvalidArgumentException extends Exception

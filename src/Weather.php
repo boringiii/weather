@@ -6,11 +6,11 @@
  * Time: 10:41
  */
 
-namespace Fhy\Weather;
+namespace Boringiii\Weather;
 
 use GuzzleHttp\Client;
-use Fhy\Weather\Exceptions\HttpException;
-use Fhy\Weather\Exceptions\InvalidArgumentException;
+use Boringiii\Weather\Exceptions\HttpException;
+use Boringiii\Weather\Exceptions\InvalidArgumentException;
 
 class Weather
 {

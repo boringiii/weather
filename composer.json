@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Fhy\\Weather\\": "src"
+            "Boringiii\\Weather\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Fhy\\Weather\\ServiceProvider"
+                "Boringiii\\Weather\\ServiceProvider"
             ]
         }
     }

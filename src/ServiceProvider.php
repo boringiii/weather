@@ -6,7 +6,7 @@
  * Time: 12:09
  */
 
-namespace Fhy\Weather;
+namespace Boringiii\Weather;
 
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider

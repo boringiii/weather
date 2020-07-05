@@ -6,15 +6,15 @@
  * Time: 10:55
  */
 
-namespace Fhy\Weather\Tests;
+namespace Boringiii\Weather\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Mockery\Matcher\AnyArgs;
-use Fhy\Weather\Exceptions\HttpException;
-use Fhy\Weather\Exceptions\InvalidArgumentException;
-use Fhy\Weather\Weather;
+use Boringiii\Weather\Exceptions\HttpException;
+use Boringiii\Weather\Exceptions\InvalidArgumentException;
+use Boringiii\Weather\Weather;
 use PHPUnit\Framework\TestCase;
 
 
